@@ -1,3 +1,4 @@
+@media screen and (min-width: 992px) { 
 .chicktit{font-size: 18px;background-color: #d59898;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 12px 2px 12px;}
 .chick{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
 .beeftit{font-size: 20px;background-color: #c14543;float: right;color: #fff;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 23px 2px 22px;}
@@ -31,4 +32,77 @@ h2 {
   /* margin: 10% 0%  45% 10%; */
   margin-top: 2%;
   margin-bottom: 2%;
+}
+}
+@media only screen and (min-width:768px) and (max-width:991px) { 
+.chicktit{font-size: 18px;background-color: #d59898;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 12px 2px 12px;}
+.chick{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
+.beeftit{font-size: 20px;background-color: #c14543;float: right;color: #fff;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 23px 2px 22px;}
+.beef{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
+.sushitit{font-size: 20px;background-color: #e5d198;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 21px 2px 21px;}
+.sushi{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
+.box1{
+  width: 30%;
+  background-color: #999;
+  border: 2px solid #000;
+  margin-left: 40px;
+}
+.box2{
+  width: 30%;
+  background-color: #999;
+  border: 2px solid #000;
+  float: left;
+  margin-left: 20px;
+}
+.box3{
+  width: 30%;
+  background-color: #999;
+  border: 2px solid #000;
+  margin-left: 20px;
+}
+.boxes{
+  display: flex;
+}
+h2 {
+  margin-left: 45%;
+  /* margin: 10% 0%  45% 10%; */
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+}
+@media only screen and (max-width:767px) { 
+.chicktit{font-size: 18px;background-color: #d59898;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 12px 2px 12px;}
+.chick{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
+.beeftit{font-size: 20px;background-color: #c14543;float: right;color: #fff;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 23px 2px 22px;}
+.beef{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
+.sushitit{font-size: 20px;background-color: #e5d198;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 21px 2px 21px;}
+.sushi{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
+.box1{
+  width: 30%;
+  background-color: #999;
+  border: 2px solid #000;
+  margin-left: 40px;
+}
+.box2{
+  width: 30%;
+  background-color: #999;
+  border: 2px solid #000;
+  float: left;
+  margin-left: 20px;
+}
+.box3{
+  width: 30%;
+  background-color: #999;
+  border: 2px solid #000;
+  margin-left: 20px;
+}
+.boxes{
+  display: flex;
+}
+h2 {
+  margin-left: 45%;
+  /* margin: 10% 0%  45% 10%; */
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
 }
