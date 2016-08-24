@@ -1,12 +1,9 @@
-.chicktit{font-size: 20px;background-color: #eb5a5c;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;}
-.chick{
-}
-.beeftit{font-size: 20px;background-color: #eb5a5c;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;}
-.beef{
-}
-.sushitit{font-size: 20px;background-color: #eb5a5c;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;}
-.sushi{
-}
+.chicktit{font-size: 18px;background-color: #d59898;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 12px 2px 12px;}
+.chick{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
+.beeftit{font-size: 20px;background-color: #c14543;float: right;color: #fff;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 23px 2px 22px;}
+.beef{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
+.sushitit{font-size: 20px;background-color: #e5d198;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 21px 2px 21px;}
+.sushi{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
 .box1{
   width: 30%;
   background-color: #999;
@@ -31,5 +28,7 @@
 }
 h2 {
   margin-left: 45%;
-
+  /* margin: 10% 0%  45% 10%; */
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
