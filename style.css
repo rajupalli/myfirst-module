@@ -5,6 +5,11 @@
 .beef{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
 .sushitit{font-size: 20px;background-color: #e5d198;float: right;border: 2px solid #000;margin: -2px -2px 0px 0px;padding: 2px 21px 2px 21px;}
 .sushi{/* margin-top: 34px; */margin: 34px 10px 10px 10px;}
+.header{
+  font-size:14px;
+  margin-top: 5px;
+  margin-left:5px;
+}
 .box1{
   width: 30%;
   background-color: #999;
