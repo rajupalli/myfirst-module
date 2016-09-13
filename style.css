@@ -88,16 +88,16 @@ h2 {
 ul#nav {
     /* float: right; */
     /* margin-top: -19px; */
-    margin-top: -20px;
+    margin-top: -1%;
     /* margin-right: -19px; */
     /* top: 0px; */
     list-style: none;
-    right: 38px;
+    right: 4%;
     /* background-color: #fff; */
     /* left: 76%; */
     position: absolute;
-    display: list-item;
-    background-position-x: 10px;
+    display: block;
+    /* background-position-x: 10px; */
     /* margin-top: -13px; */
     font-family: roboto;
     /* background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAADdcAAA3XAUIom3gAAAAHdElNRQfgCQ0OCSNc0ey/AAAAiElEQVRIx+2VsQ3DMAwEj4LiMl0G8Q4uMkNGUuUpMoVnsPaINhALZgd9YcMwWd+DfD5AC7RKIk/mycI0SHc2i51ZGKBaiCbIHiRc4j2xChLOaofn4AICmTcfHoO087X48RIGaGeIcpP4ZiGbKK9wCyQKnRjsTrHow0cE8DNEuUp8tZBfm7yCWH8VuET0aDNrjwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNi0wOS0xM1QxNDowOTozNSswMjowMK+4p8YAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTYtMDktMTNUMTQ6MDk6MzUrMDI6MDDe5R96AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAABJRU5ErkJggg=='); */
@@ -110,8 +110,8 @@ ul#nav {
     display: block;
     float: right;
     color: #484848;
-    margin-right: 40px;
-    margin-top: -58px;
+    margin-right: 4%;
+    margin-top: -6%;
     /* position: absolute; */
     z-index: 9999;
 }
