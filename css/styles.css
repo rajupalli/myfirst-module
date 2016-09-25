@@ -10,7 +10,9 @@ body{
     color: #eb5959 !important;
     text-align: center !important;
 }
-
+.navbar-default .navbar-brand {
+    color: #fff !important;
+}
 .navbar-brand h1{
 	font-size: 1.5em;	
 	font-weight: bold;
