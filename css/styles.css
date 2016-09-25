@@ -33,11 +33,25 @@ body{
 }
 
 .row  div{
-	height: 1000px;
-	border: 1px solid black;
-	background-color: gray;
-	color: white;
-	margin-bottom: 10px;
+	height: 200px;
+    border: 1px solid black;
+    background-color: #70a3ff;
+    color: white;
+    margin-bottom: 10px;
+}
+.row  div:nth-child(2){
+	height: 200px;
+    border: 1px solid black;
+    background-color: #ffab70;
+    color: white;
+    margin-bottom: 10px;
+}
+.row  div:nth-child(2){
+	height: 200px;
+    border: 1px solid black;
+    background-color: #e270ff;
+    color: white;
+    margin-bottom: 10px;
 }
 .row h3{
 	margin-bottom: 20px;
